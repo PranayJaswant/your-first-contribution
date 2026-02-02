@@ -40,7 +40,6 @@ Along with core electrical subjects, I actively explore **software tools and web
 - Audio & video embedding with HTML5
 - Tables using `rowspan` and `colspan`
 
-
 ### 🔔 Mini Project (Electronics)
 - Worked on a **safety buzzer–based project** using basic electronics concepts *(academic exposure)*
 
